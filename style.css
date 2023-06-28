@@ -1,0 +1,12 @@
+body {
+
+    background-color: rgb(83, 21, 21);
+    color: rgb(237, 237, 237);
+
+}
+
+#srt1 {
+
+    max-width: 200px;
+    max-height: 200px;
+}
